@@ -1,0 +1,3 @@
+...Oh hey there! Didn't see you come in...
+
+My name is James Uptagrafft. This is my Github page. I have stored a few of my school projects here. Have a look around!
